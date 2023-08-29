@@ -33,7 +33,7 @@ body {
     position           : relative;
     width              : 100%;
     text-align         : left;
-    background-image   : url('image/background.jpg');
+    background-image   : url('background.jpg');
     background-size    : cover;
     background-position: bottom;
     padding            : 100px 0;
